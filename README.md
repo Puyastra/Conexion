@@ -22,3 +22,5 @@ if (codigo){}
 | Cabecera 1 | Cabecera 2 |
 |------------|------------|
 | Elemento 1 | Elemento 2 |
+
+![](flor.jpg)
